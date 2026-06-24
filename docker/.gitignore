@@ -1,0 +1,5 @@
+ollama/
+openwebui/data/
+*.json
+*.bin
+*.gguf
